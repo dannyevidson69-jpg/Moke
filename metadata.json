@@ -1,0 +1,6 @@
+{
+  "name": "GOAL",
+  "description": "Next-generation video and streaming platform featuring Shorts, long-form videos, live streaming, creator studio, real-time live chat, comments, wallet, and community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
